@@ -1,7 +1,14 @@
-# Awesome Project Build with TypeORM
+# MODELO BASE DE DESENVILVIMENTO DE API v0.1
 
-Steps to run this project:
+PRINCIPAIS MODULOS USADOS:
 
-1. Run `npm i` command
-2. Setup database settings inside `data-source.ts` file
-3. Run `npm start` command
+1: Express
+2: TypeORM
+3: Typescript
+4: ts-node
+
+EXECUTAR
+npm start
+
+BUILD
+npx tsc
